@@ -1,0 +1,9 @@
+pandas
+pennylane
+numpy
+matplotlib
+plotly
+geopandas
+folium
+google-colab
+datetime
