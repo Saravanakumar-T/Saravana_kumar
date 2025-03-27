@@ -1,9 +1,12 @@
 pandas
-pennylane
 numpy
 matplotlib
 plotly
 geopandas
 folium
-google-colab
-datetime
+pennylane
+rtree
+gdal
+branca
+jinja2
+ipython
