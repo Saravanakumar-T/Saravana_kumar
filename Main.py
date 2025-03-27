@@ -1,5 +1,5 @@
 # Install necessary libraries (Uncomment if needed)
-!pip install pandas pennylane numpy matplotlib plotly geopandas folium
+#!pip install pandas pennylane numpy matplotlib plotly geopandas folium
 
 # Import libraries
 import pandas as pd
