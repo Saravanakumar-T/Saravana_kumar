@@ -15,3 +15,5 @@ gdal
 branca
 jinja2
 ipython
+flask
+gunicorn
