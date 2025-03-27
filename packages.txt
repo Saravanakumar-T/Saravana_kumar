@@ -1,2 +1,6 @@
 libspatialindex-dev
 gdal-bin
+libffi-dev
+libblas-dev
+liblapack-dev
+
