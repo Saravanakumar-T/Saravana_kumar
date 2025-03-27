@@ -1,3 +1,4 @@
+--upgrade pip
 pandas
 numpy
 matplotlib
@@ -9,5 +10,5 @@ gdal
 branca
 jinja2
 ipython
---upgrade pip
 pennylane
+pennylane-lightning
