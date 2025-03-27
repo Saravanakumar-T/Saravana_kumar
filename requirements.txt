@@ -1,6 +1,7 @@
 --upgrade pip
-pennylane==0.34
-pennylane-lightning==0.34
+--no-cache-dir
+pennylane
+pennylane-lightning
 scipy
 networkx
 sympy
